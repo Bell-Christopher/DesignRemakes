@@ -11,3 +11,15 @@ Original by chFlorian - re-written for iOS 17 and Xcode 15
 | --- | --- |
 | ![Banking](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Banking.png) | ![Calendar](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Calendar.png) |
 
+| Job Offers | Login |
+| --- | --- |
+| ![Job Offers](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Job%20Offers.png) | ![Login](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Login.png) |
+
+| Management | Places |
+| --- | --- |
+| ![Management](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Management.png) | ![Places](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Places.png) |
+
+| Reddit |
+| --- |
+| ![Reddit](https://github.com/Bell-Christopher/DesignRemakes/blob/main/Images/Reddit.png) |
+
